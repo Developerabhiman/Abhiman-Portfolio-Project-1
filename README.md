@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
-I'm a full stack developer and a fresher Data Analyst looking for Successfull Career in the Field of technology.I am always eager to learn new things which helps to enhance my logic building skills and Adaptability to a new 
-Technical Ecossytem. I am looking forward to contribute to growth of your organisation 
+I'm a full stack developer and a fresher Data Analyst looking for Successfull Career in the Field of technology.I am always eager to learn new things which helps to enhance my logic building skills and Adaptability to a new Technical Ecosytem. I am looking forward to contribute to growth of your organisation.
 
 
 ## 🔗 Links
