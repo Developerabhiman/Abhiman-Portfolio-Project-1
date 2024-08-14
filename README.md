@@ -5,8 +5,15 @@ Technical Ecossytem. I am looking forward to contribute to growth of your organi
 
 
 ## 🔗 Links
+
+# Full Stack Developer Portfolio
 [![FulL Stack Developer portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhimanpratapsingh.netlify.app/)
+
+# Data Anayst Portfolio
 [![Data Analyst portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhiman-the-analyst.netlify.app/)
+
+# Linkedin
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhiman-pratap-singh-218b27222)
 
 # IMDB Movie Data Portfolio Project
