@@ -79,52 +79,59 @@ License
 
 To run this project locally, follow these steps:
 
-```bash
-
 Clone the Repository
 
 Clone the project repository from GitHub:
 
-git clone https://github.com/Developerabhiman/movie-portfolio-project.git
+```bash
+   git clone https://github.com/Developerabhiman/movie-portfolio-project.git
+```
 
 Navigate to the Project Directory
 
-cd movie-portfolio-project
+```bash
+   cd movie-portfolio-project
+```
 
 Create a Virtual Environment (Optional)
 
 It's recommended to use a virtual environment to manage dependencies:
 
+```bash
 python -m venv venv
+```
+
+```bash
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 Install Dependencies
 
 Install the required Python libraries using pip:
 
+```bash
 pip install -r requirements.txt
-
 ```
     
 ## Usage/Examples
 
-```bash
+
 After setting up the environment, you can start analyzing the data:
 
 Launch Jupyter Notebook
 
 Start Jupyter Notebook from the command line:
 
-jupyter notebook
+```bash
+   jupyter notebook
+```
 Open the Notebook
 
 In the Jupyter Notebook interface, navigate to the Movie Portfolio Project.ipynb file and open it.
 
 Run the Notebook
 
-Execute each cell sequentially to perform the data analysis steps. The notebook is designed to guide you through the entire process, from data loading to visualization.
-```
-
+Execute each cell sequentially to perform the data analysis steps. The notebook is designed to guide you through the entire process, from data loading to visualization
 
 ## Features
 
@@ -166,7 +173,9 @@ The project requires the following Python libraries:
 
 All dependencies can be installed via the requirements.txt file:
 
--   pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
+```
 
 ## Configuration
 
@@ -189,19 +198,25 @@ This project doesn't require special configuration. Ensure that your Python envi
 
   -  Objective: Understand which movie genres have been most popular over the years.
   -   Method: Aggregate data by genre and year, then create line plots to show trends.
+    
 ## Troubleshooting
 
 - Jupyter Notebook Not Launching: Ensure that Jupyter is installed correctly. If issues persist, try reinstalling it:
 
-  
-    - pip install jupyter
+  ```bash
+     pip install jupyter
+  ```
    
 
 - Missing Dependencies: If you encounter a ModuleNotFoundError, ensure all dependencies are installed:
-  
-    - pip install -r requirements.txt
+
+  ```bash
+     pip install -r requirements.txt
+  ```
    
 - Visualization Issues: If plots aren't displaying within the notebook, ensure %matplotlib inline is included in the relevant cells.
+
+  
 ## Contributing
 
 Contributions are always welcome!
